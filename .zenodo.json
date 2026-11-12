@@ -1,0 +1,33 @@
+{
+  "title": "high-radix-fp-fpga: VHDL floating-point adders, multipliers and converters for high-radix formats on FPGAs",
+  "upload_type": "software",
+  "description": "<p>Synthesizable VHDL floating-point adders, multipliers and IEEE-754 converters for high-radix floating-point formats (radix 16, 64, 256, 4096 and 2<sup>24</sup>) aimed at FPGA implementation, together with a Python reference model and self-checking tests for GHDL.</p><p>The formats and the architectures are described in J. Villalba and J. Hormigo, &quot;High-Radix Formats for Enhancing Floating-Point FPGA Implementations&quot;, Circuits, Systems, and Signal Processing 41, 1683-1703, 2022.</p>",
+  "creators": [
+    {
+      "name": "Hormigo, Javier",
+      "affiliation": "Universidad de Málaga",
+      "orcid": "0000-0002-5454-6821"
+    }
+  ],
+  "access_right": "open",
+  "license": "LGPL-3.0-or-later",
+  "language": "eng",
+  "keywords": [
+    "floating-point arithmetic",
+    "high-radix formats",
+    "floating-point adder",
+    "floating-point multiplier",
+    "FPGA",
+    "VHDL",
+    "computer arithmetic",
+    "open hardware"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1007/s00034-021-01855-x",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}

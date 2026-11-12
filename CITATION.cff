@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the article that describes the
+  formats and the architectures (preferred citation below).
+title: "high-radix-fp-fpga: VHDL floating-point adders, multipliers and converters for high-radix formats on FPGAs"
+type: software
+authors:
+  - family-names: Hormigo
+    given-names: Javier
+    orcid: "https://orcid.org/0000-0002-5454-6821"
+    affiliation: "Departamento de Arquitectura de Computadores, Universidad de Málaga"
+version: 1.0.0
+date-released: "2026-11-12"
+license: LGPL-3.0-or-later
+repository-code: "https://github.com/fjhormigouma/high-radix-fp-fpga"
+abstract: >-
+  Synthesizable VHDL floating-point adders, multipliers and IEEE-754
+  converters for high-radix formats (radix 16, 64, 256, 4096 and 2^24) aimed
+  at FPGA implementation, together with a Python reference model and
+  self-checking GHDL tests.
+keywords:
+  - floating-point arithmetic
+  - high-radix formats
+  - floating-point adder
+  - floating-point multiplier
+  - FPGA
+  - VHDL
+  - computer arithmetic
+preferred-citation:
+  type: article
+  title: "High-Radix Formats for Enhancing Floating-Point FPGA Implementations"
+  authors:
+    - family-names: Villalba
+      given-names: Julio
+    - family-names: Hormigo
+      given-names: Javier
+      orcid: "https://orcid.org/0000-0002-5454-6821"
+  journal: "Circuits, Systems, and Signal Processing"
+  volume: 41
+  start: 1683
+  end: 1703
+  year: 2022
+  doi: "10.1007/s00034-021-01855-x"
+  publisher:
+    name: Springer
