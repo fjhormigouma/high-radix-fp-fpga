@@ -12,6 +12,7 @@ authors:
 version: 1.0.0
 date-released: "2026-11-12"
 license: LGPL-3.0-or-later
+doi: "10.5281/zenodo.24153978"
 repository-code: "https://github.com/fjhormigouma/high-radix-fp-fpga"
 abstract: >-
   Synthesizable VHDL floating-point adders, multipliers and IEEE-754

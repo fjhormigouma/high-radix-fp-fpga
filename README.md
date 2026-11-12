@@ -1,5 +1,7 @@
 # high-radix-fp-fpga
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24153978.svg)](https://doi.org/10.5281/zenodo.24153978)
+
 Synthesizable VHDL floating-point adders, multipliers and IEEE-754 converters for **high-radix
 floating-point formats** on FPGAs, with a Python reference model and self-checking tests.
 
@@ -213,9 +215,17 @@ If you use this code, please cite the article that describes the formats and the
 }
 ```
 
+To cite the software itself, use the archived release:
+
+> J. Hormigo, *high-radix-fp-fpga: VHDL sources and
+> test of "High-Radix Formats for Enhancing Floating-Point FPGA Implementations"*,
+> version 1.0.0, Zenodo, 2026. <https://doi.org/10.5281/zenodo.24153978>
+
+
 The metadata of the repository itself is in `CITATION.cff`.
 
 ## Contact
 
-Javier Hormigo, Departamento de Arquitectura de Computadores, Universidad de Málaga, Spain.  Please use the
-issue tracker of the repository for questions and error reports.
+Javier Hormigo (ORCID [0000-0002-5454-6821](https://orcid.org/0000-0002-5454-6821)),
+Departamento de Arquitectura de Computadores, Universidad de Málaga, Spain.
+Questions and problems: please open an issue in the repository.
